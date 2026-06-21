@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Windi Rahmanda Fitri 👋
 
-<!--
-**Windirahmanda/windirahmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics Undergraduate at Universitas Negeri Jakarta.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in Data Engineering, Data Analytics, Machine Learning, and Risk Analysis.
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Git
+- GitHub
+
+## Projects
+
+- Credit Scoring Analysis
+- CT Scan Simulation
+- Sales Dashboard Analysis
+
+## Contact
+
+- Email: windirahmandafitri@gmail.com
+- LinkedIn: www.linkedin.com/in/windi-rahmanda-fitri
