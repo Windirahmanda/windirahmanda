@@ -8,14 +8,14 @@ I am interested in Data Engineering, Data Analytics, Machine Learning, and Risk 
 
 ## Skills
 
-Python
-Pandas
-NumPy
-Machine Learning
-Data Cleaning
-Power BI
-Git
-GitHub
+- Python
+- Pandas
+- NumPy
+- Machine Learning
+- Data Cleaning
+- Power BI
+- Git
+- GitHub
 
 ## Projects
 
